@@ -1,11 +1,11 @@
-# Pac
+ï»¿# Pac
 ## detail
 
 	file
 	   ---ShadowsocksR.zip ssr proxy tools
-	   ---privoxy-3.0.26 Ç°¶Ë´úÀí¹¤¾ß
+	   ---privoxy-3.0.26 å‰ç«¯ä»£ç†å·¥å…·
 	   ---bat.rar	
 	   ---ra3
 		---chihuaworld ra3 mod1
 	ssr 	
-	   ---gui-config.json ssr ÅäÖÃÎÄ¼ş	
+	   ---gui-config.json ssr é…ç½®æ–‡ä»¶	
