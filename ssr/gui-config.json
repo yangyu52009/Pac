@@ -14,7 +14,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "FreeSSR-public",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -31,7 +31,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -48,7 +48,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "MQ",
 			"group" : "",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -65,7 +65,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "MQ",
 			"group" : "",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -82,7 +82,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "MQ",
 			"group" : "",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -99,7 +99,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "MQ",
 			"group" : "",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -116,7 +116,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -133,7 +133,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "无限流量节点",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -150,7 +150,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -167,7 +167,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -184,7 +184,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -507,7 +507,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "25",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -541,7 +541,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "0316",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -580,6 +580,40 @@
 		},
 		{
 			"remarks" : "",
+			"id" : "E3F28A4305DD259BA119142A19DED625",
+			"server" : "89.34.26.38",
+			"server_port" : 1677,
+			"server_udp_port" : 0,
+			"password" : "QtoLuw",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "",
+			"id" : "F348402C513D40891EA8A91D6AEB83E1",
+			"server" : "172.105.210.4",
+			"server_port" : 10016,
+			"server_udp_port" : 0,
+			"password" : "35568113",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "0321",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "",
 			"id" : "BCDA2BB036422521DCC4C6C837F4D868",
 			"server" : "207.148.104.175",
 			"server_port" : 33785,
@@ -592,6 +626,108 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "0321",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "",
+			"id" : "F1E6AFE9FB800F5036C310541F6D1C69",
+			"server" : "159.89.136.216",
+			"server_port" : 11979,
+			"server_udp_port" : 0,
+			"password" : "23936624",
+			"method" : "rc4-md5",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "0324",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "",
+			"id" : "050218D353BAD13FA0E825240E2A9142",
+			"server" : "0207.148.97.138",
+			"server_port" : 13569,
+			"server_udp_port" : 0,
+			"password" : "51git",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "0324",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "",
+			"id" : "8454C875F3ABDDD451F6C7894BD484AD",
+			"server" : "5.101.179.106",
+			"server_port" : 15505,
+			"server_udp_port" : 0,
+			"password" : "6201573835",
+			"method" : "aes-256-gcm",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "0324",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "本账号来自:doub.io/sszhfx/镜像域名:doub.ws/sszhfx/",
+			"id" : "1B916F201BB0CB7D5B4C4745CD255F2B",
+			"server" : "64.137.198.70",
+			"server_port" : 5556,
+			"server_udp_port" : 0,
+			"password" : "doub.io/sszhfx/*doub.ws/sszhfx/*5556",
+			"method" : "chacha20",
+			"protocol" : "auth_sha1_v4",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "5pys6LSm5Y-35p2l6IeqOmRvdWIuaW8vc3N6aGZ4L-mVnOWDj-Wfn-WQjTpkb3ViLndzL3NzemhmeC8",
+			"group" : "0324",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "本账号来自:doub.io/sszhfx/镜像域名:doub.ws/sszhfx/",
+			"id" : "6D3247C919FA9F3F02A4C19FB5D0FD88",
+			"server" : "64.137.231.223",
+			"server_port" : 5556,
+			"server_udp_port" : 0,
+			"password" : "doub.io/sszhfx/*doub.ws/sszhfx/*5556",
+			"method" : "chacha20",
+			"protocol" : "auth_sha1_v4",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "5pys6LSm5Y-35p2l6IeqOmRvdWIuaW8vc3N6aGZ4L-mVnOWDj-Wfn-WQjTpkb3ViLndzL3NzemhmeC8",
+			"group" : "0324",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "本账号来自:doub.io/sszhfx/镜像域名:doub.ws/sszhfx/",
+			"id" : "BAC4189EA8F3EE334DC2F87EA59ED568",
+			"server" : "45.62.237.71",
+			"server_port" : 5556,
+			"server_udp_port" : 0,
+			"password" : "doub.io/sszhfx/*doub.ws/sszhfx/*5556",
+			"method" : "chacha20",
+			"protocol" : "auth_sha1_v4",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "5pys6LSm5Y-35p2l6IeqOmRvdWIuaW8vc3N6aGZ4L-mVnOWDj-Wfn-WQjTpkb3ViLndzL3NzemhmeC8",
+			"group" : "0324",
 			"enable" : true,
 			"udp_over_tcp" : false
 		},
@@ -626,7 +762,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "0321",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -779,7 +915,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -966,7 +1102,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "25",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -1187,7 +1323,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -1221,7 +1357,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "25",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -2394,7 +2530,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -2755,7 +2891,7 @@
 			"udp_over_tcp" : false
 		}
 	],
-	"index" : 33,
+	"index" : 36,
 	"random" : true,
 	"sysProxyMode" : 1,
 	"shareOverLan" : true,
