@@ -337,7 +337,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "5pys6LSm5Y-35p2l6IeqOmRvdWIuaW8vc3N6aGZ4L-mVnOWDj-Wfn-WQjTpkb3ViLndzL3NzemhmeC8",
 			"group" : "25",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -354,7 +354,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "5pys6LSm5Y-35p2l6IeqOmRvdWIuaW8vc3N6aGZ4L-mVnOWDj-Wfn-WQjTpkb3ViLndzL3NzemhmeC8",
 			"group" : "25",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -371,7 +371,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "5pys6LSm5Y-35p2l6IeqOmRvdWIuaW8vc3N6aGZ4L-mVnOWDj-Wfn-WQjTpkb3ViLndzL3NzemhmeC8",
 			"group" : "25",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -388,7 +388,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "25",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -405,7 +405,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "MDMxMQ",
 			"group" : "0311",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -422,7 +422,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "MDMxMQ",
 			"group" : "0311",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -439,7 +439,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "MDMxMQ",
 			"group" : "0311",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -456,7 +456,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "MDMxMQ",
 			"group" : "0311",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -473,7 +473,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "MDMxMQ",
 			"group" : "0311",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -490,7 +490,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "MDMxMQ",
 			"group" : "0311",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -507,7 +507,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "MDMxMQ",
 			"group" : "0311",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -541,7 +541,7 @@
 			"obfsparam" : "itunes.apple.com",
 			"remarks_base64" : "576OMV9URUxJQQ",
 			"group" : "今天吃点什么？",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -575,7 +575,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "0316",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -592,7 +592,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "0316",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -626,7 +626,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "0321",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -694,6 +694,176 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "0325",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "",
+			"id" : "1CAEB432DF2AB60FF2C6C712EFF057AB",
+			"server" : "47.74.244.47",
+			"server_port" : 1024,
+			"server_udp_port" : 0,
+			"password" : "1024",
+			"method" : "rc4-md5",
+			"protocol" : "auth_sha1_v4",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "0328",
+			"enable" : false,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "",
+			"id" : "17CBECE9ED6335EEAE0B3658EDE9CA08",
+			"server" : "89.34.26.38",
+			"server_port" : 1677,
+			"server_udp_port" : 0,
+			"password" : "QtoLuw",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "0331",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "",
+			"id" : "04F54785578B9AC87819B36F2E1A8588",
+			"server" : "45.33.48.128",
+			"server_port" : 10336,
+			"server_udp_port" : 0,
+			"password" : "44138526",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "0331",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "",
+			"id" : "8F5BAF190950CF0A00FD09D613356999",
+			"server" : "128.199.134.194",
+			"server_port" : 10783,
+			"server_udp_port" : 0,
+			"password" : "12851240",
+			"method" : "rc4-md5",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "0331",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "",
+			"id" : "E24280CF8E53C70B127F9B784F44736F",
+			"server" : "5.101.179.106",
+			"server_port" : 20693,
+			"server_udp_port" : 0,
+			"password" : "7577290132",
+			"method" : "aes-256-gcm",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "0331",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "0329",
+			"id" : "C95B74F6226853CB305ABBAE3C8DB86F",
+			"server" : "185.177.216.214",
+			"server_port" : 8080,
+			"server_udp_port" : 0,
+			"password" : "fuckGFW....",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_chain_b",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "MDMyOQ",
+			"group" : "俄罗斯新西伯利亚",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "02-ovz虚拟化不限速",
+			"id" : "14D18CE5B602ABB779CDE048EC276F89",
+			"server" : "185.177.216.215",
+			"server_port" : 8080,
+			"server_udp_port" : 0,
+			"password" : "fuckGFW....",
+			"method" : "aes-256-cfb",
+			"protocol" : "auth_chain_b",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "MDItb3Z66Jma5ouf5YyW5LiN6ZmQ6YCf",
+			"group" : "俄罗斯新西伯利亚",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "",
+			"id" : "1300D0BFEC340AA695C0A739C6DE48D4",
+			"server" : "89.34.26.38",
+			"server_port" : 1677,
+			"server_udp_port" : 0,
+			"password" : "QtoLuw",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "0329",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "",
+			"id" : "1DC6FCB3A59B59170877E34BACB10429",
+			"server" : "213.183.48.10",
+			"server_port" : 10522,
+			"server_udp_port" : 0,
+			"password" : "40050108",
+			"method" : "rc4-md5",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "0329",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
+			"remarks" : "",
+			"id" : "E4950B6A1C368DD52D6A238BE241A5C5",
+			"server" : "5.101.179.106",
+			"server_port" : 15849,
+			"server_udp_port" : 0,
+			"password" : "2915871924",
+			"method" : "aes-256-gcm",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "",
+			"group" : "0329",
 			"enable" : true,
 			"udp_over_tcp" : false
 		},
@@ -796,7 +966,7 @@
 			"obfsparam" : "",
 			"remarks_base64" : "",
 			"group" : "0325",
-			"enable" : true,
+			"enable" : false,
 			"udp_over_tcp" : false
 		},
 		{
@@ -3078,7 +3248,7 @@
 			"udp_over_tcp" : false
 		}
 	],
-	"index" : 40,
+	"index" : 41,
 	"random" : true,
 	"sysProxyMode" : 1,
 	"shareOverLan" : true,
@@ -3090,7 +3260,7 @@
 	"randomInGroup" : false,
 	"TTL" : 60,
 	"connectTimeout" : 5,
-	"proxyRuleMode" : 2,
+	"proxyRuleMode" : 1,
 	"proxyEnable" : false,
 	"pacDirectGoProxy" : false,
 	"proxyType" : 0,
